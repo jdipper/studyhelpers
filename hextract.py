@@ -1,4 +1,5 @@
 # Script to extract text from a highlighted PDF
+# Usage: python hextract.py <filename/path>
 
 import sys, fitz
 
